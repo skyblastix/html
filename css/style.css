@@ -1,0 +1,17 @@
+h1{
+    color:yellowgreen;
+    font-size: 40px;
+}
+
+a{
+    color: blue;
+    font-size: 90px;
+}
+a:hover{
+    color: aqua;
+    font-size: larger;
+    border-bottom: 10px;
+}
+a:active{
+    color:yellow;
+}

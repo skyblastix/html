@@ -1,0 +1,27 @@
+.box{
+    margin: 0 auto;
+    width: 400px;
+    
+}
+.header{
+    border: 10px solid pink;
+    height: 250px;
+    
+}
+.content{
+    border:10px solid aqua;
+    height:400px;
+    
+}
+.footer{
+    background:antiquewhite;
+    height:100px;
+    
+}
+.content h1{
+    color: aquamarine;
+}
+.content p{
+    color:red;  
+}
+ 

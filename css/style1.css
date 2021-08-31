@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    font-size: 50px;
+    text-decoration: underline;
+    border:5px solid greenyellow /*dashed dotted*/
+}
+p{
+    color: red;
+    font-family: Verdana;
+    font-size:18px;
+    line-height: 1.5;
+    text-align: left;
+    text-indent: 36px;
+    
+}

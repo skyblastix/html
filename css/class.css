@@ -1,0 +1,14 @@
+h1{
+    color:blue;
+    font-size: large;
+}
+
+p{
+    color: brown;
+    font-size: small;
+}
+
+.style{
+   color: aqua;
+   font-size: smaller; 
+}

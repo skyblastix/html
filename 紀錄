@@ -1,0 +1,9 @@
+font-family:字體
+line-height:行距
+text-align:靠左右
+text-indent:首行縮排
+text-decoration:畫底線or刪除線
+letter-spacing:字距
+:hover 滑鼠靠近改變樣式
+:active 點選改變樣是
+border 設定字框樣是 ex:大小 樣式 顏色 樣式常用:solid(實心) dashed(虛線) dotted(圓點虛線)
